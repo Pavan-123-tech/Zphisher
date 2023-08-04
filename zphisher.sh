@@ -1,28 +1,18 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
-##   Version 	: 	2.2
+##   Author 	: 	Pawan Raut 
+##   Version 	: 	1.0
 ##   Github 	: 	https://github.com/htr-tech
 
-##   THANKS TO :
-##   Aditya Shakya - https://github.com/adi1090x
-##   1RaY-1 - https://github.com/1RaY-1
-##   Ali Milani Amin - https://github.com/AliMilani
-##   Moises Tapia - https://github.com/MoisesTapia
-##   TheLinuxChoice - https://twitter.com/linux_choice
-##   DarksecDevelopers  - https://github.com/DarksecDevelopers
-##   Ignitetch  - https://github.com/Ignitetch/AdvPhishing
-##   Võ Ngọc Bảo - https://github.com/vongocbao
-##   Mustakim Ahmed - https://www.facebook.com/Learn.Termux.009
+
 
 
 ## If you Copy Then Give the credits :)
 
 
 
-##                   GNU GENERAL PUBLIC LICENSE
-##                    Version 3, 29 June 2007
+
 ##
 ##    Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 ##    Everyone is permitted to copy and distribute verbatim copies
@@ -91,7 +81,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2022  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2022  HTR-TECH (https://github.com/Pawan-123-tech)
 ##
 
 
@@ -153,17 +143,9 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
-		${ORANGE} ______      _     _     _               
-		${ORANGE}|___  /     | |   (_)   | |              
-		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
-		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
-		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
-		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
-		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.2
+		             ${RED}Version : 1.0
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Pawan-123-tech (Pawan_Raut)${WHITE}
 	EOF
 }
 
